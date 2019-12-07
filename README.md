@@ -1,5 +1,5 @@
 # influenza
-A graph database debugging tool for US politics (Debug Politics Hackathon, Jan 2017, NYC)
+A graph database debugging tool
 
 ## How to set-up Neo4j on your local machine
 See tutorial at https://neo4j.com/developer/docker/#_how_to_use_the_neo4j_docker_image .
